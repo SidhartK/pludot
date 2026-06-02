@@ -4,3 +4,8 @@ __pycache__/
 *.pyc
 
 *.csv
+
+# Added by cargo
+
+/target
+*.so
