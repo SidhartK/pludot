@@ -12,10 +12,3 @@ dependencies = [
 [build-system]
 requires = ["maturin>=1.0,<2.0"]
 build-backend = "maturin"
-
-[dependency-groups]
-dev = [
-    "datasets>=4.8.5",
-    "marimo>=0.23.8",
-    "pytz>=2026.2",
-]

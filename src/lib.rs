@@ -1,3 +1,6 @@
+mod text;
+mod prose;
+
 use pyo3::prelude::*;
 
 #[pymodule]
